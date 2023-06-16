@@ -1,0 +1,11 @@
+- Comandos importantes da CLI do symfony
+
+1- symfony serve -> Cria um servidor PHP na porta 8000
+2- symfony serve --port=8080 -> Define uma porta para o servidor, pode ser usado para dois servidores.
+3- symfony serve -d -> Cria um servidor que roda no background.
+4- symfony serve:ca:install -> instala um certificado HTTPS.
+5- symfony server:status -> Mostra status do servidor.
+6- symfony server:stop -> Para o servidor.
+
+ - Processo de rotas no Synfony
+ 
